@@ -1,0 +1,92 @@
+.petitenav {
+  position: relative;
+  background-color: violet;
+  /* padding: 2.5px */
+  border-radius: 5px;
+}
+
+.imgpetitenav {
+  position: relative;
+}
+
+.elementsnav {
+  position: relative;
+  padding-left: 500px;
+  bottom: 30px;
+}
+
+.input {
+  position: relative;
+  padding-left: 580px;
+  padding-top: px;
+}
+
+.searchbar {
+  border-radius: 5px;
+  height: 25px;
+}
+
+.btn {
+  background-color: lightgreen;
+  border-radius: 5px;
+  height: 30px;
+}
+
+.cote {
+  display: inline-flex;
+  margin-top: -3em;
+  text-align: center;
+  padding: 1em;
+}
+
+#decale {
+  padding-left: 8em;
+}
+
+.centrer {
+  align-items: center;
+  display: flex;
+  padding-left: 20em;
+}
+
+.img {
+  margin-top: 1.5em;
+}
+
+.footer {
+  position: relative;
+  justify-content: space-between;
+}
+
+.elementfooter {
+  position: absolute;
+  top: 800px;
+  color: white;
+  left: 500px;
+  align-content: space-between !important;
+  display: flex;
+  justify-content: space-between !important;
+  margin-top: 75px;
+}
+
+.icon {
+  position: relative;
+  justify-content: space-between !important;
+  align-content: space-between !important;
+  justify-content: center;
+  color: white;
+}
+
+.espaceicon {
+  padding: 25px;
+}
+
+.img2 {
+  position: absolute;
+  top: 25px;
+  align-content: center;
+  left: 125px;
+  padding: 30px;
+}
+
+/*# sourceMappingURL=style.css.map */
